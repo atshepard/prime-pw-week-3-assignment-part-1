@@ -78,6 +78,6 @@ console.log('The animals are now', animalArray);
 
 // 4.d TODO: Remove the food at the beginning of your array &
 //     log both the food removed and the updated array
-let removedFirstFood = bestFoodsArray.shift()
-console.log('Okay, let\'s remove' removedFirstFood);
+let removedFirstFood = bestFoodsArray.shift();
+console.log('Okay, let\'s remove', removedFirstFood);
 console.log('The absolute final list of best foods is', bestFoodsArray);
